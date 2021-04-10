@@ -1,11 +1,11 @@
 {
-    "name": "Husain",
-    "department": "Legal",
-    "anniversary": "5",
-    "name": "Joko",
-    "department": "IT & Department",
-    "anniversary": "10",
-    "name": "Tango",
-    "department": "Operations",
-    "anniversary": "15"    
+    "name1": "Husain",
+    "department1": "Legal",
+    "anniversary1": "5",
+    "name2": "Joko",
+    "department2": "IT & Department",
+    "anniversary2": "10",
+    "name3": "Tango",
+    "department3": "Operations",
+    "anniversary3": "15"    
 }
